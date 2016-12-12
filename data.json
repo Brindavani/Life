@@ -23,7 +23,7 @@
 	       "children": [ 
                {
            "name": "Crocodile",
-		   "eats":["Snake","Turtles","Lizard","Frog","Salamander","Toads","Hummingbird","Penguin","Crane","Vulture","Eagle","Rat","Bear","Monkey","Horse","Elephant"],
+		   "eats":["Snake","Turtles","Lizard","Frog","Salamander","Toads","Humming Bird","Penguin","Crane","Vulture","Eagle","Rat","Bear","Monkey","Horse","Elephant"],
            "description": "Meow" ,
            "free": true
                },

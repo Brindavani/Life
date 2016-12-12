@@ -1089,7 +1089,7 @@ gradient2.append("stop")
 		
 	}
 	}
-	var imgpath="Images1/"+nodenamec+".jpg";
+	var imgpath="Images/"+nodenamec+".jpg";
 	d3.select(".stackdesc")
 	.append("div")
 	.attr("class","imgdesc")
@@ -1181,12 +1181,10 @@ gradient2.append("stop")
 	return color2[levelc+1];
 	});
 	
-	defaultdesc();
-	
 	}
 	})
 	.on("mouseover", function() {
-	var imgsrc="Images1/"+nodenamec+".jpg";
+	var imgsrc="Images/"+nodenamec+".jpg";
 	div2.transition()    
             .duration(200)    
             .style("opacity", 1.0);    
